@@ -1,0 +1,17 @@
+<svg width="537" height="355" viewBox="0 0 537 355" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect opacity="0.1" x="33.5305" y="0.802933" width="471.463" height="353.756" rx="5" fill="#2A2A2A"/>
+<rect x="0.530457" y="3.80293" width="536" height="346" rx="8" fill="#E8EAF6"/>
+<mask id="mask0_0_377" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="3" width="537" height="347">
+<rect x="0.530457" y="3.80293" width="536" height="346" rx="8" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_377)">
+<rect x="-3" y="4" width="547" height="59" fill="#5267DF"/>
+<circle opacity="0.244768" cx="39" cy="34" r="16" fill="white"/>
+<circle opacity="0.104399" cx="500" cy="34" r="16" fill="white"/>
+<rect opacity="0.75" x="70" y="24" width="120" height="6" rx="3" fill="white"/>
+<rect opacity="0.25" x="70" y="38" width="64" height="6" rx="3" fill="white"/>
+<rect x="57.5305" y="96.8029" width="261" height="316" rx="8" fill="white"/>
+<rect x="352.53" y="96.8029" width="128" height="316" rx="8" fill="white"/>
+<rect opacity="0.5" x="136" y="135" width="120" height="6" rx="3" fill="#242A45"/>
+</g>
+</svg>
